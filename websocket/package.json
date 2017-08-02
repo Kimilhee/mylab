@@ -1,0 +1,18 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "description": "make sample websocket test program",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kimilhee",
+  "license": "ISC",
+  "dependencies": {
+    "faye-websocket": "^0.11.1",
+    "lodash": "^4.17.4",
+    "promptly": "^2.2.0",
+    "ws": "^2.3.1"
+  }
+}

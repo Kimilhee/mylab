@@ -1,0 +1,17 @@
+{
+  "cq": {
+    "cmd": "cq"
+  },
+  "cq2": {
+    "cmd": "cq",
+    "page":1,
+    "perPage":12
+  },
+  "tx1": {
+    "cmd"       : "tx",
+    "EUI"       : "4786E6ED0053004B",         
+    "port"      : 1,
+    "confirmed" : true,
+    "data"      : "0102AABB"
+  }
+}
